@@ -9,4 +9,5 @@ class Like < ActiveRecord::Base
 	# File Upload
 
 	# Soft Destroy
+ acts_as_paranoid
 end
