@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  ActiveAdmin.routes(self)
 	# Engines
   mount ApiTaster::Engine => "/api_taster"
 
