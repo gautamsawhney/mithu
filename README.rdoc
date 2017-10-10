@@ -1,2 +1,2 @@
-Mithu is generated using AUTOBOT an automatic code generator. 
-You can play with AUTOBOT here http://autobot.r15.railsrumble.com
+Mithu is generated using AUTOBOT an automatic code generator.
+You can play with AUTOBOT here http://autobot.r15.railsrumble.com.
